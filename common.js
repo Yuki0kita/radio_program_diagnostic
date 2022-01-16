@@ -91,24 +91,24 @@
     // 診断テスト結果
     if(yes.length == 0) {
       // Yesの数が、0個の時
-      $(".ansewer__title").text("Yesの数が０個の時のあなたは〇〇〇タイプです！");
-      $(".ansewer__txt").html('<img src="https://hajimete.org/wp-content/uploads/2019/07/190702.jpg">〇〇〇タイプの方は、テキストテキストテキストテキスト。<br>テキストテキストテキストテキストテキストテキスト。<a href="http://リンク先アドレス&quot; rel="nofollow ugc">詳細はコチラ！</a>');
+			$(".ansewer__title").text("リトルトゥースの卵のあなたには「オードリーのオールナイトニッポン」がオススメです！");
+			$(".ansewer__txt").html('<img src="https://radiko.jp/res/program/DEFAULT_IMAGE/LFR/2uvc37bx9r.png"><br><br>オードリー（若林正恭さん、春日俊彰さん）がパーソナリティを務める、ニッポン放送『オードリーのオールナイトニッポン』が聴取率V32を達成しました。2021年6月に行われた「首都圏ラジオ聴取率調査」（ビデオリサーチ調べ、12歳～69歳男女対象）で、32回連続の同時間帯単独トップを獲得。現在の『オールナイトニッポン』では、ナインティナインに次ぐ長寿番組となり、深夜ラジオをけん引する存在に。2016年から5年連続でトップを走り続けている『オードリーのオールナイトニッポン』<a href="https://twitter.com/annkw5tyb"; rel="nofollow ugc">詳細はコチラ！</a>');
     } else if(yes.length == 1) {
 			// Yesの数が、1個の時
-			$(".ansewer__title").text("Yesの数が１個の時のあなたは〇〇〇タイプです！");
-			$(".ansewer__txt").html('<img src="https://hajimete.org/wp-content/uploads/2019/07/190702.jpg">〇〇〇タイプの方は、テキストテキストテキストテキスト。<br>テキストテキストテキストテキストテキストテキスト。<a href="http://リンク先アドレス&quot; rel="nofollow ugc">詳細はコチラ！</a>');
+			$(".ansewer__title").text("リトルトゥースの卵のあなたには「オードリーのオールナイトニッポン」がオススメです！");
+			$(".ansewer__txt").html('<img src="https://radiko.jp/res/program/DEFAULT_IMAGE/LFR/2uvc37bx9r.png"><br><br>オードリー（若林正恭さん、春日俊彰さん）がパーソナリティを務める、ニッポン放送『オードリーのオールナイトニッポン』が聴取率V32を達成しました。2021年6月に行われた「首都圏ラジオ聴取率調査」（ビデオリサーチ調べ、12歳～69歳男女対象）で、32回連続の同時間帯単独トップを獲得。現在の『オールナイトニッポン』では、ナインティナインに次ぐ長寿番組となり、深夜ラジオをけん引する存在に。2016年から5年連続でトップを走り続けている『オードリーのオールナイトニッポン』<a href="https://twitter.com/annkw5tyb"; rel="nofollow ugc">詳細はコチラ！</a>');
     } else if(yes.length == 2) {
 			// Yesの数が、2個の時
-			$(".ansewer__title").text("Yesの数が２個の時のあなたは〇〇〇タイプです！");
-			$(".ansewer__txt").html('<img src="https://hajimete.org/wp-content/uploads/2019/07/190702.jpg">〇〇〇タイプの方は、テキストテキストテキストテキスト。<br>テキストテキストテキストテキストテキストテキスト。<a href="http://リンク先アドレス&quot; rel="nofollow ugc">詳細はコチラ！</a>');
+			$(".ansewer__title").text("リトルトゥースの卵のあなたには「オードリーのオールナイトニッポン」がオススメです！");
+			$(".ansewer__txt").html('<img src="https://radiko.jp/res/program/DEFAULT_IMAGE/LFR/2uvc37bx9r.png"><br><br>オードリー（若林正恭さん、春日俊彰さん）がパーソナリティを務める、ニッポン放送『オードリーのオールナイトニッポン』が聴取率V32を達成しました。2021年6月に行われた「首都圏ラジオ聴取率調査」（ビデオリサーチ調べ、12歳～69歳男女対象）で、32回連続の同時間帯単独トップを獲得。現在の『オールナイトニッポン』では、ナインティナインに次ぐ長寿番組となり、深夜ラジオをけん引する存在に。2016年から5年連続でトップを走り続けている『オードリーのオールナイトニッポン』<a href="https://twitter.com/annkw5tyb"; rel="nofollow ugc">詳細はコチラ！</a>');
     } else if(yes.length == 3) {
 			// Yesの数が、3個の時
-			$(".ansewer__title").text("Yesの数が３個の時のあなたは〇〇〇タイプです！");
-			$(".ansewer__txt").html('<img src="https://hajimete.org/wp-content/uploads/2019/07/190702.jpg">〇〇〇タイプの方は、テキストテキストテキストテキスト。<br>テキストテキストテキストテキストテキストテキスト。<a href="http://リンク先アドレス&quot; rel="nofollow ugc">詳細はコチラ！</a>');
+			$(".ansewer__title").text("リトルトゥースの卵のあなたには「オードリーのオールナイトニッポン」がオススメです！");
+			$(".ansewer__txt").html('<img src="https://radiko.jp/res/program/DEFAULT_IMAGE/LFR/2uvc37bx9r.png"><br><br>オードリー（若林正恭さん、春日俊彰さん）がパーソナリティを務める、ニッポン放送『オードリーのオールナイトニッポン』が聴取率V32を達成しました。2021年6月に行われた「首都圏ラジオ聴取率調査」（ビデオリサーチ調べ、12歳～69歳男女対象）で、32回連続の同時間帯単独トップを獲得。現在の『オールナイトニッポン』では、ナインティナインに次ぐ長寿番組となり、深夜ラジオをけん引する存在に。2016年から5年連続でトップを走り続けている『オードリーのオールナイトニッポン』<a href="https://twitter.com/annkw5tyb"; rel="nofollow ugc">詳細はコチラ！</a>');
     } else if(yes.length == 4) {
 			// Yesの数が、4個の時
-			$(".ansewer__title").text("Yesの数が４個の時のあなたは〇〇〇タイプです！");
-			$(".ansewer__txt").html('<img src="https://hajimete.org/wp-content/uploads/2019/07/190702.jpg">〇〇〇タイプの方は、テキストテキストテキストテキスト。<br>テキストテキストテキストテキストテキストテキスト。<a href="http://リンク先アドレス&quot; rel="nofollow ugc">詳細はコチラ！</a>');
+			$(".ansewer__title").text("リトルトゥースの卵のあなたには「オードリーのオールナイトニッポン」がオススメです！");
+			$(".ansewer__txt").html('<img src="https://radiko.jp/res/program/DEFAULT_IMAGE/LFR/2uvc37bx9r.png"><br><br>オードリー（若林正恭さん、春日俊彰さん）がパーソナリティを務める、ニッポン放送『オードリーのオールナイトニッポン』が聴取率V32を達成しました。2021年6月に行われた「首都圏ラジオ聴取率調査」（ビデオリサーチ調べ、12歳～69歳男女対象）で、32回連続の同時間帯単独トップを獲得。現在の『オールナイトニッポン』では、ナインティナインに次ぐ長寿番組となり、深夜ラジオをけん引する存在に。2016年から5年連続でトップを走り続けている『オードリーのオールナイトニッポン』<a href="https://twitter.com/annkw5tyb"; rel="nofollow ugc">詳細はコチラ！</a>');
     } else if(yes.length == 5) {
 			// Yesの数が、5個の時
 			$(".ansewer__title").text("リトルトゥースの卵のあなたには「オードリーのオールナイトニッポン」がオススメです！");
